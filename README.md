@@ -1,6 +1,6 @@
-# Getting Started with Create React App
+# React-Refreshment
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project to refresh my knowledge on RactJS. [WIP]
 
 ## Available Scripts
 
